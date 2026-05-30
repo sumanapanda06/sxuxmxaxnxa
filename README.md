@@ -2,7 +2,7 @@
 
 🎓 First-year CSE student  
 💻 Currently learning programming and problem solving  
-🚀 Interested in AI and technology  
+🚀 Interested in AI, development and technology  
 
 ## Goals
 - Improve coding skills  
